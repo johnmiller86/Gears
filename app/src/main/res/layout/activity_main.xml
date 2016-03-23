@@ -7,6 +7,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@color/colorBlack"
     tools:context="com.jdm5908_bw.ist402.gears.MainActivity">
 
     <ImageView
@@ -32,7 +33,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/rotate_btn"
+        android:text="@string/start_gears"
         android:id="@+id/button"
         android:layout_below="@+id/imageView2"
         android:layout_centerHorizontal="true"

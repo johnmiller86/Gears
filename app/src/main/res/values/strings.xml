@@ -2,5 +2,6 @@
     <string name="app_name">Gears</string>
     <string name="gear_large">Large gear</string>
     <string name="gear_small">Small gear</string>
-    <string name="rotate_btn">Rotate Gears</string>
+    <string name="start_gears">Start Gears</string>
+    <string name="stop_gears">Stop Gears</string>
 </resources>
